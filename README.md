@@ -1,6 +1,6 @@
 # AERIN's Enchiridion 
-|> Why would you want to lower and stabilize the latency of your hardware?
-|> A consistent feeling is critical for most competitively played games as your entire gameplay relies on it
+|> Why would you want to lower and stabilize the latency of your hardware? <br />
+|> A consistent feeling is critical for most competitively played games as your entire gameplay relies on it <br />
 |> Sudden increase in latency/instability/insane DPM downclocking = worsened latency, you miss the shot thats responsible for having you on a leaderboard
 |> Can you actually feel these few milliseconds? Yes, you definitely can.
 
@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=vOvQCPLkPt4&t=80s&ab_channel=MicrosoftResearch
 https://www.youtube.com/watch?v=muvToLXJSks&ab_channel=NVIDIAGeForce
 
 # Frames and other useless metrics
-|> "You can always increase bandwidhh but you cannot ask God to increase the speed of light"
+|> "You can always increase bandwidth but you cannot ask God to increase the speed of light"
 |> Nothing but 0.1% frames matter, and even these cannot always be used as a reliable metric
 |> Bandwidth is a joke, focusing on it is the reason we still use memory with 80% unnecessary latency
 
