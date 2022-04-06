@@ -45,7 +45,7 @@ CPU Coolers <br />
 
 RAM <br />
 * Always buy G.Skill Ripjaws V Black. Theyre cheaper than Trident kits and usually perform just the same while being B-die <br />
-* Do NOT buy Corsair RAM due to it utilising a EFM8UB20F64G-B-QFP32 bootloader (which it can be disabled by writing a non-0xA5 to it's signature) <br />
+* Do NOT buy Corsair RAM due to it utilising a EFM8UB20F64G-B-QFP32 bootloader (which can be disabled by writing a non-0xA5 to it's signature) <br />
 * Buy dual rank (2x16GB) if your board works well with it  <br />
 * Remove heatsinks by heating them up with a hairdryer and using a knive to strip each side away <br />
 * Use at least 1 fan on your RAM and keep it below 36c when during stress testing <br />
