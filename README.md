@@ -1,8 +1,8 @@
 # AERIN's Enchiridion 
-|> Why would you want to lower and stabilize the latency of your hardware? <br />
-|> A consistent feeling is critical for most competitively played games as your entire gameplay relies on it <br />
-|> Sudden increase in latency/instability/insane DPM downclocking = worsened latency, you miss the shot thats responsible for having you on a leaderboard <br />
-|> Can you actually feel these few milliseconds? Yes, you definitely can. <br />
+* Why would you want to lower and stabilize the latency of your hardware? <br />
+* A consistent feeling is critical for most competitively played games as your entire gameplay relies on it <br />
+* Sudden increase in latency/instability/insane DPM downclocking = worsened latency, you miss the shot thats responsible for having you on a leaderboard <br />
+* Can you actually feel these few milliseconds?*Yes, you definitely can.* <br />
 
 https://www.nvidia.com/en-us/geforce/news/reflex-low-latency-platform/#why-does-system-latency-matter <br />
 https://www.youtube.com/watch?v=vOvQCPLkPt4&t=80s&ab_channel=MicrosoftResearch <br />
