@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=vOvQCPLkPt4&t=80s&ab_channel=MicrosoftResearch <
 https://www.youtube.com/watch?v=muvToLXJSks&ab_channel=NVIDIAGeForce <br />
 
 # Frames and other useless metrics
-* "You can always increase bandwidth but you cannot ask God to increase the speed of light" <br />
+* *"You can always increase bandwidth but you cannot ask God to increase the speed of light"* <br />
 * Nothing but 0.1% frames matter, and even these cannot always be used as a reliable metric <br />
 * Bandwidth is a joke, focusing on it is the reason we still use memory with *80% unnecessary latency* <br />
 
