@@ -3,7 +3,7 @@
 * A consistent feeling is critical for most competitively played games as your entire gameplay relies on it <br />
 * Sudden increase in latency/instability/insane DPM downclocking = worsened latency, you miss the shot thats responsible for having you on a leaderboard <br />
 * Can you actually feel these few milliseconds? *Yes, you definitely can.* <br />
-* [My twitter](twitter.com/aerin0x01)
+* [My twitter](https://twitter.com/aerin0x01)
 
 
 https://www.nvidia.com/en-us/geforce/news/reflex-low-latency-platform/#why-does-system-latency-matter <br />
