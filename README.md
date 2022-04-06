@@ -21,12 +21,12 @@ https://www.youtube.com/watch?v=muvToLXJSks&ab_channel=NVIDIAGeForce <br />
 
 # Low latency hardware
 
-CPUS <br />
+**CPUS**
 * Ryzen will not be mentioned again as it's incapable of RAM overclocking beyond 1900 FCLK (FCLK = 1/2MCLK) and it's IMC falls without aditional stability settings such as GDM <br />
 * 9900K, 10900K, 12900K <br />
 * 10900K may not prove perfect stability at all times, thus 9900K/12900K should be the first choice <br />
 
-Motherboards <br />
+**Motherboards**
 * For Coffee Lake: Z390 DARK (Buy used from ebay, you will not find unused ones. Goes for $350-$500) <br />
                     Z390 Apex XI (A good choice if you can't find a DARK. Similar price) <br />
                     Z390i (If you really need a new board and can't afford #1 & #2, get one of these. Anything besides Gigabyte will do just fine) <br />
@@ -40,10 +40,10 @@ Motherboards <br />
                    Z690 Asus Tuf Gaming DDR4 ($300, slightly worse than ROG) <br />
                    Z690 Msi Pro DDR4 ($200, direct phase but disgusting firmware, only recommended as the very last option) <br />
                    
-CPU Coolers <br />
+**CPU Coolers**
 * Arctic Liquid Freezer ii 280mm (or 360/420) combined with Thermal Grizzly Kryonaut, possible even Conductonaut if delidded ($80) <br />
 
-RAM <br />
+**RAM**
 * Always buy G.Skill Ripjaws V Black. Theyre cheaper than Trident kits and usually perform just the same while being B-die <br />
 * Do NOT buy Corsair RAM due to it utilising a EFM8UB20F64G-B-QFP32 bootloader (which can be disabled by writing a non-0xA5 to it's signature) <br />
 * Buy dual rank (2x16GB) if your board works well with it  <br />
@@ -55,21 +55,21 @@ RAM <br />
                                                               3600 14 15 <br />
                                                               3200 14 14 <br />
 
-Power supplies <br />
+**Power supplies**
 * Ripple affects all other parts so that'll be the judge of PSU quality <br />
 * Ax1600 with proper AC cables above all others  <br />
 * RM1000x, RM850x, RM750x will do just fine in a non-professionally used build <br />
 
-NIC's <br />
+**NICs**
 * XG-C100C <br />
 * X550T2 <br />
 * I210T1 <br />
 
-Routers
+**Routers**
 * XR-300 abve all other ones <br />
 * Flash openWRT to get rid of certain mitigations, set up QoS and disable Wi-Fi (it affects you/your hardware/your cables/everything) <br />
 
-Monitors <br />
+**Monitors**
 * Don't buy IPS or VA panels, only twisted nematic (TN) <br />
 * XV252QF <br />
 * HP OMEN x25 (non -F version) <br />
@@ -80,7 +80,7 @@ Monitors <br />
 * Delete all EDID's besides a custom one with 6BPC, static pixel clock and timings <br />
 * Use 1600x900 if your display has a good scaler <br />
 
-# Graphics Cards
+**Graphics Cards**
 * AMD POLARIS ABOVE ALL OTHER ONES <br />
 * AMD GPU's have 10x+ more interrupts than NVIDIA <br />
 * AMD has better rasterization by default <br />
@@ -96,7 +96,7 @@ Monitors <br />
 * Registry keys can override (V-)BIOS settings <br />
 * 1% improvement in PCIE RX/TX latency is worth 10 RAM ns <br />
 
-# BIOS
+**BIOS**
 * Every BIOS has a few thousand settings hidden from consumers <br />
 * Disable BCLK SSC if it's visible, otherwise use the GRUB bootloader oder AmiSceWin/AmiSceEfi <br />
 * Disable all other SSC, they affect all clocks <br />
